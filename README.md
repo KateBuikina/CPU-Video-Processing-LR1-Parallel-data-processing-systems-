@@ -1,4 +1,4 @@
-# CPU-Based Multithreaded Video Processing — Variant 2  
+# CPU-Based Multithreaded Video Processing 
 *(Master’s Practical Assignment №1, 2025)*
 
 ## Overview (English)
